@@ -1,1 +1,0 @@
-# open_jira_course
